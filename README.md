@@ -21,7 +21,7 @@
 ### ⚡ Fun Fact
 
 > I can go from editing a reel to writing C++ logic without switching tabs.  
-> Multitasking? No babe, that’s just my baseline 🧋💻🎧
+> Multitasking? Naah, that’s just my baseline 🧋💻🎧
 
 ---
 
