@@ -13,7 +13,7 @@
 - 🌱 Learning: **SwiftUI**, **DSA (C++)**, **UI/UX**, **Diffusion Models**, **Python things**
 - 👯 Open for collabs on **storytelling through design** (Reels, Insta edits, aesthetic content 🎬)
 - 🤝 Need help with: **ML research paper writing** 🧠📄
-- 💬 Ask me about: `DSA`, `SwiftUI`, `Figma`, `Reels`, `Design`, `Techie Aesthetic`
+- 💬 Ask me about: `DSA`, `Machine Learning`, `Figma`, `Reels`, `Design`, `Techie Aesthetic`
 - 📫 DM me at: **aditisingh6363@gmail.com**
 
 ---
